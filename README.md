@@ -5,6 +5,7 @@ Sou apaixonada por desafios tecnológicos e por transformar linhas de código em
 
 💼:Atualmente, estou cursando no curso InCode. Este curso tem sido uma experiência incrível, onde tenho a oportunidade de aprofundar meu conhecimento em diversas áreas relacionadas à 
     tecnologia, como:
+    
     HTML
     CSS
     JavaScript
